@@ -9,6 +9,8 @@ readme = "README.md"
 python = "^3.8"
 Django = "^4.1.2"
 pre-commit = "^2.20.0"
+virtualenv = "20.0.33"
+setuptools = "*"
 djangorestframework = "^3.14.0"
 
 
